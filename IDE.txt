@@ -1,0 +1,3 @@
+INTEGER abc = 10; INTEGER a = 50; a = a = ab1c;
+x = x + 1;
+INTEGER _num1, num2, @num;
